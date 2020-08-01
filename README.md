@@ -1,1 +1,6 @@
 # 3.5.3-POGIL-Truth-Tables
+The input from the Scanner class has already been implemented for you. Make sure to use true or false when you are entering values in for the sunny and raining variables. Otherwise, you will receive an error. Bonus points if you want to fix the code to avoid these errors.
+
+1. Write the sentence “If it’s sunny, OR if the temperature is greater than 80 and it’s not raining, I will go to the beach.” as a Java if statement using an int variable temperature and boolean variables sunny and raining. If the conditional is true, print out “Go to the beach!”. So, you will go to beach on days that it is sunny in any temperature, or you will go to the beach on days when the temperature is over 80 degrees and it’s not raining.
+2. Complete a truth table for the if statement that you wrote in #1 with columns for sunny, temperature > 80, raining, and go to the beach. Upload an image of your completed truth table with your assignment submission.
+3. Write Java code to test your if statement and try all the values in your truth table to see if you filled it out correctly. You will need test case for each of the 8 rows in your truth table, for example when sunny is true and false, when raining is true or false, and for a value of temperature greater than 80, for example 90, and less than 80, for example 60.
